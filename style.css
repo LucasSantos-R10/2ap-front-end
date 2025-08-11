@@ -3,3 +3,17 @@ body{
     padding: 0;
     background-color: blue;
 }
+
+header, footer{
+    width:100%;
+    background-color:blue;
+}
+
+header{
+    height:15vh;
+}
+
+footer{
+    height: 5vh;
+}
+.contPrincipal{display: flex;}
